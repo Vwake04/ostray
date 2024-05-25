@@ -39,9 +39,7 @@ Ostray is a dynamic workflow management system for handling leads, featuring mod
             "name": "GPT-3",
             "description": "AI Sales Agent"
           },
-          "output_channel": {
-            "channel_type": "WhatsApp"
-          }
+          "output_channel": "WhatsApp"
         }
       ]
     }
