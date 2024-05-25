@@ -1,0 +1,20 @@
+{
+    "workflows": [
+        {
+            "lead_source": "Salesforce",
+            "persona": {
+                "name": "GPT-3",
+                "description": "AI Sales Agent"
+            },
+            "output_channel": "Whatsapp"
+        },
+        {
+            "lead_source": "HubSpot",
+            "persona": {
+                "name": "BERT",
+                "description": "AI Marketing Agent"
+            },
+            "output_channel": "iMessage"
+        }
+    ]
+}

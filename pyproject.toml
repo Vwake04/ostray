@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "ostray"
+version = "0.1.0"
+description = "Dynamic Workflow Manager"
+authors = ["Vwake04 <baraiyavivek04@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pytest = "^8.2.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[project.optional-dependencies]
+test = [
+    "pytest>=6.0.0",
+]
