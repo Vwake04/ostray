@@ -6,7 +6,7 @@ Ostray is a dynamic workflow management system for handling leads, featuring mod
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/ostray.git
+    git clone https://github.com/Vwake04/ostray.git
     cd ostray
     ```
 
